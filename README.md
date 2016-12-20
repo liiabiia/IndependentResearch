@@ -1,3 +1,6 @@
+#To view current working site, please visit:
+ __(http://people.eecs.ku.edu/~lbutler/Research)__
+
 # A-Frame Boilerplate
 
 Boilerplate for creating WebVR scenes using A-Frame.
